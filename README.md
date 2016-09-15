@@ -1,5 +1,8 @@
 # LDA workshop
 
+These materials are available as a resource for a workshop presented by [Fast
+Forward Labs](http://www.fastforwardlabs.com/).
+
 If you would like to run the notebook, please download the entire repository,
 e.g. by clicking the green "Clone and Download" button, then "Download ZIP".
 
