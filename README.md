@@ -8,7 +8,7 @@ machine as we go through (which is not necessary, but will increase your
 understanding), then there are some things you should do before the workshop.
 
  1. Download this repository. To do this use `git clone` if you have git on
-    your machine, or you click the green "Clone and Download" button, then
+    your machine, or click the green "Clone and Download" button, then
     "Download ZIP".
 
  2. Ensure you have the requirements installed. You'll need:
