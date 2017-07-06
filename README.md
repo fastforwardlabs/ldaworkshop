@@ -15,8 +15,8 @@ understanding), then there are some things you should do before the workshop.
   
      - Python 2.7 or higher
      - jupyter notebook, numpy and pandas
-     - scikit-learn 0.18 or higher (previous versions of scikit-learn do not
-       include the LDA algorithm)
+     - scikit-learn 0.18.2 or higher (the LDA algorithm was added in 0.18.1 but
+       had a bug that was fixed in 0.18.2)
 
     These dependencies can be installed using `conda` (if you have Anaconda
     Python) or `pip install` (if you are using standard tools).
