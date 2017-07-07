@@ -17,13 +17,13 @@ understanding), then there are some things you should do before the workshop.
      - jupyter notebook, numpy and pandas
      - scikit-learn 0.18.2 or higher (the LDA algorithm was added in 0.18.1 but
        had a bug that was fixed in 0.18.2)
+     - Optionally, if you would like to build an interactive visualization of a
+       topic model then you'll need pyLDAvis 1.5 or higher, but this is not
+       absolutely necessary to run the core of the notebook.
 
     These dependencies can be installed using `conda` (if you have Anaconda
-    Python) or `pip install` (if you are using standard tools).
-     
-    If you would like to build an interactive visualization of a topic model
-    then you'll need pyLDAvis 1.5 or higher, but this is not absolutely
-    necessary to run the core of the notebook.
+    Python) or `pip install` (if you are using standard tools, in which case do
+    `pip install -r requirements.txt`).
 
 Alternatively, if you just want to follow along with the presentation without
 running the code locally, view [lda_rendered.ipynb on Github by clicking this
